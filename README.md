@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-## Project Oview
+## Project Overview
 
 I am tasked to utilize my Python skills and knowledge of Pandas to create a multiple-line graph that shows the total weekly fares for each city type and provide a supporting visual graph of total weekly fares for each city type.
 
