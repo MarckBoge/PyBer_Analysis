@@ -14,6 +14,8 @@ I am tasked to utilize my Python skills and knowledge of Pandas to create a mult
 At first glance at the Pyber Data Summary it is clear that there is a big difference in three city types. Urban area received more rides then the other two combined (Total Rides). Giving the area the highest revenue(Total Fares). But yet Urban drivers were paid the less (Average Fare per Driver).
 
 ##PyBer Summary
+
+
 <img width="627" alt="PyBer Summary" src="https://user-images.githubusercontent.com/90155651/180318642-15c36093-0a14-42af-a64c-29655bb52afa.png">
 
 
